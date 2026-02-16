@@ -2,12 +2,11 @@
  
    🙋‍♀️ About me:
 
-    .💻 I'm Computer Engineering , currently 
-     working as Flutter developer
+    .💻 I'm Computer Engineering            currently working as                Flutter developer
      
-    .✨ l'm passionate about             software development 
+    .✨ l'm passionate about                software development 
 
-    .🌻 Enthusiastic about                innovation and sharing ideas
+    .🌻 Enthusiastic about                  innovation and sharing ideas
 
     .💬 I'm happy to help
 
